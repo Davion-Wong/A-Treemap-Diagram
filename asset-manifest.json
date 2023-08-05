@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/A-Treemap-Diagram/static/css/main.c969bca1.css",
+    "main.js": "/A-Treemap-Diagram/static/js/main.b5688630.js",
+    "static/js/787.e043f393.chunk.js": "/A-Treemap-Diagram/static/js/787.e043f393.chunk.js",
+    "index.html": "/A-Treemap-Diagram/index.html",
+    "main.c969bca1.css.map": "/A-Treemap-Diagram/static/css/main.c969bca1.css.map",
+    "main.b5688630.js.map": "/A-Treemap-Diagram/static/js/main.b5688630.js.map",
+    "787.e043f393.chunk.js.map": "/A-Treemap-Diagram/static/js/787.e043f393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c969bca1.css",
+    "static/js/main.b5688630.js"
+  ]
+}
